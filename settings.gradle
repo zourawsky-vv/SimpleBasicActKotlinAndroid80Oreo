@@ -1,0 +1,2 @@
+rootProject.name='SimpleBasicActKotlinAndroid80Oreo'
+include ':app'
